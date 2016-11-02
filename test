@@ -1,0 +1,58 @@
+219. Contains Duplicate II My Submissions QuestionEditorial Solution
+Total Accepted: 63542 Total Submissions: 208779 Difficulty: Easy
+Given an array of integers and an integer k, find out whether there are two distinct indices i and j in the array such that nums[i] = nums[j] and the difference between i and j is at most k.
+
+Subscribe to see which companies asked this question
+
+217. Contains Duplicate My Submissions QuestionEditorial Solution
+Total Accepted: 97496 Total Submissions: 232381 Difficulty: Easy
+Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
+
+Subscribe to see which companies asked this question
+
+189. Rotate Array My Submissions QuestionEditorial Solution
+Total Accepted: 77668 Total Submissions: 357439 Difficulty: Easy
+Rotate an array of n elements to the right by k steps.
+
+For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].
+
+Note:
+Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.
+
+[show hint]
+
+Related problem: Reverse Words in a String II
+
+Credits:
+Special thanks to @Freezen for adding this problem and creating all test cases.
+
+Subscribe to see which companies asked this question
+
+169. Majority Element My Submissions QuestionEditorial Solution
+Total Accepted: 122099 Total Submissions: 289762 Difficulty: Easy
+Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.
+
+You may assume that the array is non-empty and the majority element always exist in the array.
+
+Credits:
+Special thanks to @ts for adding this problem and creating all test cases.
+
+Subscribe to see which companies asked this question
+
+121. Best Time to Buy and Sell Stock My Submissions QuestionEditorial Solution
+Total Accepted: 109299 Total Submissions: 300033 Difficulty: Easy
+Say you have an array for which the ith element is the price of a given stock on day i.
+
+If you were only permitted to complete at most one transaction (ie, buy one and sell one share of the stock), design an algorithm to find the maximum profit.
+
+Example 1:
+Input: [7, 1, 5, 3, 6, 4]
+Output: 5
+
+max. difference = 6-1 = 5 (not 7-1 = 6, as selling price needs to be larger than buying price)
+Example 2:
+Input: [7, 6, 4, 3, 1]
+Output: 0
+
+In this case, no transaction is done, i.e. max profit = 0.
+Subscribe to see which companies asked this question
